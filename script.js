@@ -9,7 +9,7 @@ constructor(species){
 	}
 
 	makeSound(){
-		console.log(this.species + " makes a sound");
+		console.log("The"+this.species + " makes a sound");
 	}
 }
 
